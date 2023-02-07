@@ -1,9 +1,9 @@
 ## Welcome! I'm Luiz Felippo 😄
 I'm a junior developer eager to learn, i'm always working on new projects to test and develop my programming skills.
 
-- 🔭 I’m currently working as a freelancer making automation and scrapping programs.
+- 🔭 I’m currently working as a backend developer.
 
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning mobile development.
 
 
 ![stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=FelippoDev&layout=compact&langs_count=8&theme=radical)
