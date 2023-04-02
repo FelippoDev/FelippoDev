@@ -1,5 +1,5 @@
 ## Welcome! I'm Luiz Felippo 😄
-I'm a junior developer eager to learn, i'm always working on new projects to test and develop my programming skills.
+I am a mid-level developer with a passion for problem-solving and a commitment to ongoing improvement.
 
 - 🔭 I’m currently working as a backend developer.
 
