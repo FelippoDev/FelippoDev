@@ -3,9 +3,6 @@ I am a mid-level developer with a passion for problem-solving and a commitment t
 
 - 🔭 I’m currently working as a backend developer.
 
-- 🌱 I’m currently learning mobile development.
-
-
 ![stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=FelippoDev&layout=compact&langs_count=8&theme=radical)
 
   
