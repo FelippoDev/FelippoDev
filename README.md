@@ -1,5 +1,5 @@
 ## Welcome! I'm Luiz Felippo 😄
-I am a mid-level developer with a passion for problem-solving and a commitment to ongoing improvement.
+I am a software developer with a passion for problem-solving and a commitment to ongoing improvement.
 
 - 🔭 I’m currently working as a backend developer.
 
